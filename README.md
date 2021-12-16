@@ -1,4 +1,4 @@
-# Tennis-Game-
+# Tennis-Game
 
 Written with Microsoft Visual Studio.
 
